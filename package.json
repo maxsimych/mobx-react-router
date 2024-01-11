@@ -73,7 +73,7 @@
     "webpack": "^2.3.2"
   },
   "peerDependencies": {
-    "mobx": "^3.0.0",
+    "mobx": "^3.0.0 || ^4.0.0",
     "react-router": "3.x"
   }
 }
